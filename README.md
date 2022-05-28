@@ -1,1 +1,1 @@
-# Registration-Form-React-WebApp-LGMVIP
+# Registration-Form-WebApp-LGMVIP
